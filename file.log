@@ -1,0 +1,98 @@
+Fri 26/01/24 00:19:43 | ERROR    | utils_pyautogui:clickOn:32 - NOT CLICK : family.png
+Fri 26/01/24 00:20:46 | DEBUG    | utils_pyautogui:desktop:19 - Afficher bureau
+Fri 26/01/24 00:20:46 | DEBUG    | utils_pyautogui:clickOn:26 - Click family.png
+Fri 26/01/24 00:20:53 | ERROR    | utils_pyautogui:clickOn:32 - NOT CLICK : family.png
+Fri 26/01/24 00:23:15 | DEBUG    | utils_pyautogui:desktop:19 - Afficher bureau
+Fri 26/01/24 00:23:15 | DEBUG    | utils_pyautogui:clickOn:26 - Click family.png
+Fri 26/01/24 00:24:02 | DEBUG    | utils_pyautogui:desktop:19 - Afficher bureau
+Fri 26/01/24 00:24:03 | DEBUG    | utils_pyautogui:clickOn:26 - Click family.png
+Fri 26/01/24 00:25:08 | DEBUG    | utils_pyautogui:desktop:19 - Afficher bureau
+Fri 26/01/24 00:25:09 | DEBUG    | utils_pyautogui:clickOn:26 - Click family.png
+Fri 26/01/24 00:25:09 | DEBUG    | utils_pyautogui:clickOn:26 - Click 
+Fri 26/01/24 00:25:57 | DEBUG    | utils_pyautogui:desktop:19 - Afficher bureau
+Fri 26/01/24 00:25:58 | DEBUG    | utils_pyautogui:clickOn:27 - Click family.png
+Fri 26/01/24 00:25:59 | DEBUG    | utils_pyautogui:clickOn:27 - Click utilisateur.png
+Fri 26/01/24 00:29:14 | DEBUG    | utils_pyautogui:desktop:19 - Afficher bureau
+Fri 26/01/24 00:29:15 | DEBUG    | utils_pyautogui:clickOn:27 - Click family.png
+Fri 26/01/24 00:29:16 | DEBUG    | utils_pyautogui:clickOn:27 - Click utilisateur.png
+Fri 26/01/24 00:29:29 | ERROR    | utils_pyautogui:clickOn:33 - NOT CLICK : utilisateur.png
+Fri 26/01/24 00:29:30 | DEBUG    | utils_pyautogui:clickOn:27 - Click insee.png
+Fri 26/01/24 00:30:24 | DEBUG    | utils_pyautogui:desktop:19 - Afficher bureau
+Fri 26/01/24 00:30:25 | DEBUG    | utils_pyautogui:clickOn:27 - Click family.png
+Fri 26/01/24 00:30:27 | DEBUG    | utils_pyautogui:clickOn:27 - Click utilisateur.png
+Fri 26/01/24 00:30:33 | ERROR    | utils_pyautogui:clickOn:33 - NOT CLICK : utilisateur.png
+Fri 26/01/24 00:30:33 | DEBUG    | utils_pyautogui:clickOn:27 - Click insee.png
+Fri 26/01/24 00:32:17 | DEBUG    | utils_pyautogui:desktop:19 - Afficher bureau
+Fri 26/01/24 00:32:18 | DEBUG    | utils_pyautogui:clickOn:27 - Click family.png
+Fri 26/01/24 00:32:19 | DEBUG    | utils_pyautogui:clickOn:27 - Click utilisateur.png
+Fri 26/01/24 00:32:26 | ERROR    | utils_pyautogui:clickOn:33 - NOT CLICK : utilisateur.png
+Fri 26/01/24 00:32:26 | DEBUG    | utils_pyautogui:clickOn:27 - Click insee.png
+Fri 26/01/24 00:32:33 | ERROR    | utils_pyautogui:clickOn:33 - NOT CLICK : insee.png
+Fri 26/01/24 00:32:43 | DEBUG    | utils_pyautogui:desktop:19 - Afficher bureau
+Fri 26/01/24 00:32:45 | DEBUG    | utils_pyautogui:clickOn:27 - Click family.png
+Fri 26/01/24 00:32:46 | DEBUG    | utils_pyautogui:clickOn:27 - Click utilisateur.png
+Fri 26/01/24 00:32:54 | DEBUG    | utils_pyautogui:clickOn:27 - Click insee.png
+Fri 26/01/24 00:35:01 | DEBUG    | utils_pyautogui:desktop:19 - Afficher bureau
+Fri 26/01/24 00:35:02 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\family.png
+Fri 26/01/24 00:35:32 | DEBUG    | utils_pyautogui:desktop:19 - Afficher bureau
+Fri 26/01/24 00:35:33 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\family.png
+Fri 26/01/24 00:35:34 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\utilisateur.png
+Fri 26/01/24 00:35:42 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\insee.png
+Fri 26/01/24 00:42:20 | DEBUG    | utils_pyautogui:desktop:19 - Afficher bureau
+Fri 26/01/24 00:42:21 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\family.png
+Fri 26/01/24 00:42:22 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\utilisateur.png
+Fri 26/01/24 00:42:23 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\insee.png
+Fri 26/01/24 00:42:25 | DEBUG    | utils_pyautogui:clickOn:27 - Click ok.png
+Fri 26/01/24 00:43:13 | DEBUG    | utils_pyautogui:desktop:19 - Afficher bureau
+Fri 26/01/24 00:43:14 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\family.png
+Fri 26/01/24 00:43:15 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\utilisateur.png
+Fri 26/01/24 00:43:22 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\mail.png
+Fri 26/01/24 00:43:29 | ERROR    | utils_pyautogui:clickOn:33 - NOT CLICK : C:\Users\Xuan\Projects\INSEE\pictures\mail.png
+Fri 26/01/24 00:43:29 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\insee.png
+Fri 26/01/24 00:43:31 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\ok.png
+Fri 26/01/24 00:43:32 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\mail.png
+Fri 26/01/24 00:47:03 | DEBUG    | utils_pyautogui:desktop:19 - Afficher bureau
+Fri 26/01/24 00:47:04 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\family.png
+Fri 26/01/24 00:47:05 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\utilisateur.png
+Fri 26/01/24 00:47:11 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\utilisateur2.png
+Fri 26/01/24 00:47:51 | DEBUG    | utils_pyautogui:desktop:19 - Afficher bureau
+Fri 26/01/24 00:47:52 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\family.png
+Fri 26/01/24 00:47:54 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\utilisateur.png
+Fri 26/01/24 00:48:00 | ERROR    | utils_pyautogui:clickOn:33 - NOT CLICK : C:\Users\Xuan\Projects\INSEE\pictures\utilisateur.png
+Fri 26/01/24 00:48:00 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\utilisateur2.png
+Fri 26/01/24 00:48:40 | DEBUG    | utils_pyautogui:desktop:19 - Afficher bureau
+Fri 26/01/24 00:48:41 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\family.png
+Fri 26/01/24 00:48:42 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\utilisateur.png
+Fri 26/01/24 00:48:48 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\utilisateur2.png
+Fri 26/01/24 00:48:55 | ERROR    | utils_pyautogui:clickOn:33 - NOT CLICK : C:\Users\Xuan\Projects\INSEE\pictures\utilisateur2.png
+Fri 26/01/24 00:48:55 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\insee.png
+Fri 26/01/24 00:48:57 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\ok.png
+Fri 26/01/24 00:48:58 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\mail.png
+Fri 26/01/24 00:49:05 | ERROR    | utils_pyautogui:clickOn:33 - NOT CLICK : C:\Users\Xuan\Projects\INSEE\pictures\mail.png
+Fri 26/01/24 00:49:05 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\fermer.png
+Fri 26/01/24 00:49:12 | ERROR    | utils_pyautogui:clickOn:33 - NOT CLICK : C:\Users\Xuan\Projects\INSEE\pictures\fermer.png
+Fri 26/01/24 00:50:03 | DEBUG    | utils_pyautogui:desktop:19 - Afficher bureau
+Fri 26/01/24 00:50:04 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\family.png
+Fri 26/01/24 00:50:05 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\utilisateur.png
+Fri 26/01/24 00:50:11 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\insee.png
+Fri 26/01/24 00:50:12 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\ok.png
+Fri 26/01/24 00:50:19 | ERROR    | utils_pyautogui:clickOn:33 - NOT CLICK : C:\Users\Xuan\Projects\INSEE\pictures\ok.png
+Fri 26/01/24 00:50:19 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\mail.png
+Fri 26/01/24 00:50:26 | ERROR    | utils_pyautogui:clickOn:33 - NOT CLICK : C:\Users\Xuan\Projects\INSEE\pictures\mail.png
+Fri 26/01/24 00:50:26 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\fermer.png
+Fri 26/01/24 00:50:32 | DEBUG    | utils_pyautogui:desktop:19 - Afficher bureau
+Fri 26/01/24 00:50:33 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\family.png
+Fri 26/01/24 00:50:34 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\utilisateur.png
+Fri 26/01/24 00:50:36 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\insee.png
+Fri 26/01/24 00:50:37 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\ok.png
+Fri 26/01/24 00:50:39 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\mail.png
+Fri 26/01/24 00:50:45 | ERROR    | utils_pyautogui:clickOn:33 - NOT CLICK : C:\Users\Xuan\Projects\INSEE\pictures\mail.png
+Fri 26/01/24 00:50:45 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\fermer.png
+Fri 26/01/24 00:52:00 | DEBUG    | utils_pyautogui:desktop:19 - Afficher bureau
+Fri 26/01/24 00:52:01 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\family.png
+Fri 26/01/24 00:52:02 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\utilisateur.png
+Fri 26/01/24 00:52:09 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\insee.png
+Fri 26/01/24 00:52:11 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\ok.png
+Fri 26/01/24 00:52:12 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\mail.png
+Fri 26/01/24 00:52:19 | ERROR    | utils_pyautogui:clickOn:33 - NOT CLICK : C:\Users\Xuan\Projects\INSEE\pictures\mail.png
+Fri 26/01/24 00:52:19 | DEBUG    | utils_pyautogui:clickOn:27 - Click C:\Users\Xuan\Projects\INSEE\pictures\fermer.png
